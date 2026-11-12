@@ -1,0 +1,13 @@
+D:\Ltrinh.net\ngomanhdung12_11\code\Bai5_2\bin\Debug\net8.0-windows\Bai5_2.deps.json
+D:\Ltrinh.net\ngomanhdung12_11\code\Bai5_2\bin\Debug\net8.0-windows\Bai5_2.runtimeconfig.json
+D:\Ltrinh.net\ngomanhdung12_11\code\Bai5_2\bin\Debug\net8.0-windows\Bai5_2.dll
+D:\Ltrinh.net\ngomanhdung12_11\code\Bai5_2\bin\Debug\net8.0-windows\Bai5_2.pdb
+D:\Ltrinh.net\ngomanhdung12_11\code\Bai5_2\obj\Debug\net8.0-windows\Bai5_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ltrinh.net\ngomanhdung12_11\code\Bai5_2\obj\Debug\net8.0-windows\Bai5_2.AssemblyInfoInputs.cache
+D:\Ltrinh.net\ngomanhdung12_11\code\Bai5_2\obj\Debug\net8.0-windows\Bai5_2.AssemblyInfo.cs
+D:\Ltrinh.net\ngomanhdung12_11\code\Bai5_2\obj\Debug\net8.0-windows\Bai5_2.csproj.CoreCompileInputs.cache
+D:\Ltrinh.net\ngomanhdung12_11\code\Bai5_2\obj\Debug\net8.0-windows\Bai5_2.dll
+D:\Ltrinh.net\ngomanhdung12_11\code\Bai5_2\obj\Debug\net8.0-windows\refint\Bai5_2.dll
+D:\Ltrinh.net\ngomanhdung12_11\code\Bai5_2\obj\Debug\net8.0-windows\Bai5_2.pdb
+D:\Ltrinh.net\ngomanhdung12_11\code\Bai5_2\obj\Debug\net8.0-windows\Bai5_2.genruntimeconfig.cache
+D:\Ltrinh.net\ngomanhdung12_11\code\Bai5_2\obj\Debug\net8.0-windows\ref\Bai5_2.dll

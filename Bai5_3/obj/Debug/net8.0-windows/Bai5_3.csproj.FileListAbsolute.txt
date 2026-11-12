@@ -1,0 +1,26 @@
+D:\Ltrinh.net\12-11 lt.net duong ngo hanh-24810310206\code\Bai5_3\bin\Debug\net8.0-windows\Bai5_3.deps.json
+D:\Ltrinh.net\12-11 lt.net duong ngo hanh-24810310206\code\Bai5_3\bin\Debug\net8.0-windows\Bai5_3.runtimeconfig.json
+D:\Ltrinh.net\12-11 lt.net duong ngo hanh-24810310206\code\Bai5_3\bin\Debug\net8.0-windows\Bai5_3.dll
+D:\Ltrinh.net\12-11 lt.net duong ngo hanh-24810310206\code\Bai5_3\bin\Debug\net8.0-windows\Bai5_3.pdb
+D:\Ltrinh.net\12-11 lt.net duong ngo hanh-24810310206\code\Bai5_3\obj\Debug\net8.0-windows\Bai5_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ltrinh.net\12-11 lt.net duong ngo hanh-24810310206\code\Bai5_3\obj\Debug\net8.0-windows\Bai5_3.AssemblyInfoInputs.cache
+D:\Ltrinh.net\12-11 lt.net duong ngo hanh-24810310206\code\Bai5_3\obj\Debug\net8.0-windows\Bai5_3.AssemblyInfo.cs
+D:\Ltrinh.net\12-11 lt.net duong ngo hanh-24810310206\code\Bai5_3\obj\Debug\net8.0-windows\Bai5_3.csproj.CoreCompileInputs.cache
+D:\Ltrinh.net\12-11 lt.net duong ngo hanh-24810310206\code\Bai5_3\obj\Debug\net8.0-windows\Bai5_3.dll
+D:\Ltrinh.net\12-11 lt.net duong ngo hanh-24810310206\code\Bai5_3\obj\Debug\net8.0-windows\refint\Bai5_3.dll
+D:\Ltrinh.net\12-11 lt.net duong ngo hanh-24810310206\code\Bai5_3\obj\Debug\net8.0-windows\Bai5_3.pdb
+D:\Ltrinh.net\12-11 lt.net duong ngo hanh-24810310206\code\Bai5_3\obj\Debug\net8.0-windows\Bai5_3.genruntimeconfig.cache
+D:\Ltrinh.net\12-11 lt.net duong ngo hanh-24810310206\code\Bai5_3\obj\Debug\net8.0-windows\ref\Bai5_3.dll
+D:\Ltrinh.net\ngomanhdung12_11\code\Bai5_3\bin\Debug\net8.0-windows\Bai5_3.deps.json
+D:\Ltrinh.net\ngomanhdung12_11\code\Bai5_3\bin\Debug\net8.0-windows\Bai5_3.runtimeconfig.json
+D:\Ltrinh.net\ngomanhdung12_11\code\Bai5_3\bin\Debug\net8.0-windows\Bai5_3.dll
+D:\Ltrinh.net\ngomanhdung12_11\code\Bai5_3\bin\Debug\net8.0-windows\Bai5_3.pdb
+D:\Ltrinh.net\ngomanhdung12_11\code\Bai5_3\obj\Debug\net8.0-windows\Bai5_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ltrinh.net\ngomanhdung12_11\code\Bai5_3\obj\Debug\net8.0-windows\Bai5_3.AssemblyInfoInputs.cache
+D:\Ltrinh.net\ngomanhdung12_11\code\Bai5_3\obj\Debug\net8.0-windows\Bai5_3.AssemblyInfo.cs
+D:\Ltrinh.net\ngomanhdung12_11\code\Bai5_3\obj\Debug\net8.0-windows\Bai5_3.csproj.CoreCompileInputs.cache
+D:\Ltrinh.net\ngomanhdung12_11\code\Bai5_3\obj\Debug\net8.0-windows\Bai5_3.dll
+D:\Ltrinh.net\ngomanhdung12_11\code\Bai5_3\obj\Debug\net8.0-windows\refint\Bai5_3.dll
+D:\Ltrinh.net\ngomanhdung12_11\code\Bai5_3\obj\Debug\net8.0-windows\Bai5_3.pdb
+D:\Ltrinh.net\ngomanhdung12_11\code\Bai5_3\obj\Debug\net8.0-windows\Bai5_3.genruntimeconfig.cache
+D:\Ltrinh.net\ngomanhdung12_11\code\Bai5_3\obj\Debug\net8.0-windows\ref\Bai5_3.dll
